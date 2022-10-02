@@ -31,7 +31,7 @@ plugins:
 
 minima:
   social_links:
-    twitter: DavidReidsma
+    # twitter: DavidReidsma
     github: hangrydave
     linkedin: davidreidsma
   skin: dark

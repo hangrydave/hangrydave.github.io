@@ -7,18 +7,19 @@ layout: home
 
 <img src="/assets/face.png" alt="A picture of my face" width="250"/>
 ---
+
 ## **Thanks for visiting**!
 
 I'm currently a student studying computer science at Calvin University.
 After I graduate in spring 2023, I'll be looking for a job in software development.
 
-Feel free to reach out over LinkedIn, or email me at <me@davidreidsma.com>.
+Feel free to reach out! My LinkedIn is at the bottom of the page, or my email is <me@davidreidsma.com>.
 
-[LinkedIn](https://www.linkedin.com/in/davidreidsma/)  
+<!-- [LinkedIn](https://www.linkedin.com/in/davidreidsma/)  
 [GitHub](https://github.com/hangrydave)  
-[PDF of my resume](/assets/David_Reidsma_Resume.pdf)  
+[PDF of my resume](/assets/David_Reidsma_Resume.pdf)   -->
 
-### Here's a summary of my work experience:
+## **Here's a summary of my work experience:**
 
 ---
 
