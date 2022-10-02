@@ -14,6 +14,8 @@ I'm currently a student studying computer science at Calvin University, and will
 
 Feel free to reach out! You can email me at <me@davidreidsma.com>, or you can [message me on LinkedIn](https://www.linkedin.com/in/davidreidsma/).
 
+Here's a summary of my work experience:
+
 <!-- 
 [LinkedIn](https://www.linkedin.com/in/davidreidsma/)  
 [GitHub](https://github.com/hangrydave)  
