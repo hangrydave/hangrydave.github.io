@@ -12,7 +12,7 @@ layout: home
 
 I'm currently a student studying computer science at Calvin University, and will be graduating in spring 2023. After that, I'll be looking for a job in software development.
 
-Feel free to reach out! You can email me at <me@davidreidsma.com>, or connect with me on my LinkedIn below.
+Feel free to reach out! You can email me at <me@davidreidsma.com>. My LinkedIn and GitHub profiles are linked at the bottom of the page.
 
 <!-- 
 [LinkedIn](https://www.linkedin.com/in/davidreidsma/)  
