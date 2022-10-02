@@ -14,10 +14,11 @@ After I graduate in spring 2023, I'll be looking for a job in software developme
 
 Feel free to reach out over LinkedIn, or email me at <me@davidreidsma.com>.
 
-[LinkedIn](https://www.linkedin.com/in/davidreidsma/)
-[GitHub](https://github.com/hangrydave)
+[LinkedIn](https://www.linkedin.com/in/davidreidsma/)  
+[GitHub](https://github.com/hangrydave)  
+[PDF of my resume](/assets/David_Reidsma_Resume.pdf)  
 
-A PDF of my resume is linked [here](/assets/David_Reidsma_Resume.pdf). Alternatively, here's a summary of my work experience:
+### Here's a summary of my work experience:
 
 ---
 
