@@ -10,14 +10,14 @@ layout: home
 
 ## **Thanks for visiting**!
 
-I'm currently a student studying computer science at Calvin University.
-After I graduate in spring 2023, I'll be looking for a job in software development.
+I'm currently a student studying computer science at Calvin University, and will be graduating in spring 2023. After that, I'll be looking for a job in software development.
 
-Feel free to reach out! You can email me at <me@davidreidsma.com>, or connect with me on my LinkedIn below.  
+Feel free to reach out! You can email me at <me@davidreidsma.com>, or connect with me on my LinkedIn below.
+
 <!-- 
 [LinkedIn](https://www.linkedin.com/in/davidreidsma/)  
 [GitHub](https://github.com/hangrydave)   -->
-Here's a [PDF of my resume](/assets/David_Reidsma_Resume.pdf). Alternatively, here's a summary of my work experience.
+[Here's a PDF of my resume](/assets/David_Reidsma_Resume.pdf). Alternatively, here's a summary of my work experience.
 
 <!-- ### Here's a summary of my work experience: -->
 
