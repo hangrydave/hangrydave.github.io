@@ -11,7 +11,7 @@ layout: home
 
 I'm currently a senior at Calvin University studying computer science. I'm seeking a job after my graduation in spring 2023 that'll let me contribute to meaningful projects, make new connections in the professional industry, and officially start my software development career.
 
-Feel free to reach out! You can email me at <me@davidreidsma.com>, or you can [message me on LinkedIn](https://www.linkedin.com/in/davidreidsma/).
+Feel free to reach out! You can email me at <david.reidsma@gmail.com>, or you can [message me on LinkedIn](https://www.linkedin.com/in/davidreidsma/).
 
 [Here's a link to my GitHub](https://github.com/hangrydave), where you can find some of the projects I've worked on.
 
